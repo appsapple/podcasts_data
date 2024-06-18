@@ -1,6 +1,6 @@
 {
   "podcast_categories": [
-      
+                          {"category": "وعي","jsonName": "https://appsapple.github.io/podcatsData/wa3ya.json","image":"https://archive.org/download/20240602_20240602_1447/%D8%A8%D9%88%D8%AF%D9%83%D8%A7%D8%B3%D8%AA/%D9%81%D9%86%D8%AC%D8%A7%D9%86/%D9%81%D9%86%D8%AC%D8%A7%D9%86.jpg"},
                     {"category": "فنجان","jsonName": "https://appsapple.github.io/podcatsData/fangal.json","image":"https://archive.org/download/20240602_20240602_1447/%D8%A8%D9%88%D8%AF%D9%83%D8%A7%D8%B3%D8%AA/%D9%81%D9%86%D8%AC%D8%A7%D9%86/%D9%81%D9%86%D8%AC%D8%A7%D9%86.jpg"},
           {"category": "دروس اونلاين","jsonName": "https://appsapple.github.io/podcatsData/DroasonlinePodcast.json","image":"https://archive.org/download/20240427_20240427_1619/children%27s%20book%20day/%D8%B9%D9%84%D9%85%D9%80%D9%80%D9%86%D9%81%D8%B3.png"},
               {"category": "آدم","jsonName": "https://appsapple.github.io/podcatsData/PodcastAdam.json","image":"https://archive.org/download/20240427_20240427_1619/children%27s%20book%20day/%D8%B9%D9%84%D9%85%D9%80%D9%80%D9%86%D9%81%D8%B3.png"},
